@@ -104,7 +104,7 @@ The goal of this project is to:
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/yourusername/netflix-dashboard.git
+   git clone https://github.com/arpitsai26/Netflix_dashboard
    cd netflix-dashboard
    # 🎬 Netflix Dashboard
 
